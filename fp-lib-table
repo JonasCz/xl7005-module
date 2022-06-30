@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "XL7005A")(type "Legacy")(uri "${KIPRJMOD}/LIB_XL7005A/XL7005A/KiCad/XL7005A.mod")(options "")(descr ""))
+)
